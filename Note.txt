@@ -1,0 +1,1 @@
+Before running the code, the first simulink file of simulation and eyemodel(eyemodel.slx,simulation.slx) must be both open. 
