@@ -1,1 +1,0 @@
-Before the running the code ,first simulation and eyemodel must be both open. 
